@@ -1,7 +1,7 @@
 # Data Analytics Environment for PrizePlay (via Docker) 
 ---
-by: Bryan Dieudonne <bdieu17@gmail.com>
+by: Bryan Dieudonne <bryand@lotteryrewards.com>
 
-### Setup
----
+## Setup & Run
+
 `docker-compose build && docker-compose up`
